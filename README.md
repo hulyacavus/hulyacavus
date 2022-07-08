@@ -1,16 +1,19 @@
-### Hi there 👋
+[![GitHub Views](https://komarev.com/ghpvc/?username=hulyacavus&color=FAC151)][1]
 
-<!--
-**hulyacavus/hulyacavus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Hi, I’m Hülya Çavuş! 👋🏻,
 
-Here are some ideas to get you started:
+- I am an Arabic Translator from Turkey 🇹🇷. 
+- 👀 I’m interested in languages and cooking 🧑‍🍳.
+- 🌱 I’m currently learning chinese.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 My Languages 🌎
+
+- 🇹🇷 Turkish: Native
+- 🇪🇬 🇸🇦 Arabic: C2
+- 🇺🇸 English: C2
+- 🇨🇳 chinese: A1
+- 🇯🇵 Japanese: ありがとうございました (that's it, that's all of my Japanese)
+
+[What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
+
+[1]: https://github.com/hulyacavus
